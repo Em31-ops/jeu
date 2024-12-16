@@ -12,8 +12,8 @@ function(	_,
 	var spriteSheet = new createjs.SpriteSheet({
 		'images': [imageMonstreAttaque],
 		'frames': {
-			'width': 192,
-			'height': 138,
+			'width': 515,
+			'height': 104,
 			'regX': 0,
 			'regY': 0,
 			'count': 4

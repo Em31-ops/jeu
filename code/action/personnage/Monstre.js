@@ -10,8 +10,8 @@ function(	createjs,
 	var spriteSheet = new createjs.SpriteSheet({
 		'images': [imageMonstre],
 		'frames': {
-			'width': 150,
-			'height': 170,
+			'width': 532,
+			'height': 115,
 			'regX': 0,
 			'regY': 0,
 			'count': 8
